@@ -182,7 +182,7 @@ body,
  background-color: #2092f2;
 }
 
-/* Card 2 */
+/* ___Card 2___ */
 
 .card__badge {
  display: flex;
@@ -238,7 +238,7 @@ body,
  color: white;
 }
 
-/* Card 3 */
+/* ___Card 3___ */
 
 .card:nth-child(3) .card__price h2 {
  color: #5bbd4b;
